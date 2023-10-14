@@ -1,7 +1,5 @@
 //RESUELVE LOS EJERCICIOS AQUÍ
 
-//RESUELVE LOS EJERCICIOS
-
 //Ejercicio 1
 const empleados = [
   { name: "Luis", email: "Luis@gmail.com" },
